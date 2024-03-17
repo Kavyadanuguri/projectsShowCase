@@ -1,0 +1,81 @@
+.nav-container {
+  background-color: #e2e8f0;
+  height: 12vh;
+  padding-left: 100px;
+  padding-top: 10px;
+}
+.image1 {
+  width: 200px;
+  height: 50px;
+}
+.input1 {
+  width: 300px;
+  height: 35px;
+  border-radius: 3px;
+}
+.container1 {
+  background-color: #ffffff;
+  min-height: 88vh;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 30px;
+}
+.ul-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 80px;
+}
+
+.list-container {
+  list-style-type: none;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  box-shadow: #e6e9ec 0px 4px 16px 0px;
+  height: 270px;
+  width: 260px;
+  border-radius: 20px;
+}
+.p1 {
+  font-family: 'roboto';
+  font-weight: bold;
+  margin-left: 20px;
+  font-size: 20px;
+  margin-top: 8px;
+  color: #475569;
+  margin-bottom: 20px;
+}
+.image2 {
+  width: 100%;
+  margin-bottom: 0px;
+}
+.course-fail-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+}
+.course-fail-h1 {
+  color: #1e293b;
+  font-family: 'roboto';
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+.course-fail-p {
+  color: #1e293b;
+  font-family: 'roboto';
+}
+.course-btn {
+  width: 80px;
+  height: 35px;
+  border-width: 0px;
+  background-color: #328af2;
+  color: #ffffff;
+  font-family: 'roboto';
+  border-radius: 5px;
+}
+.fail-img {
+  width: 400px;
+  height: 300px;
+}
